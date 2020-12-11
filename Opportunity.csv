@@ -1,3 +1,4 @@
 "Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
 0358cfbe-d361-4fdd-93ec-de313ee9298e,17ffa323-7aea-47ca-b97f-31dcb341eba5,20000.0,2020-12-02,"#N/A","#N/A",Pipeline,Trade Show,Test opportunity,"#N/A",10.0,true,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
-5af1bd98-14db-4fc4-a32f-ccc6cef1cf84,3b732b22-0d62-4427-a9cd-549d52002030,"#N/A",2020-12-11,"#N/A","#N/A",Pipeline,"#N/A",Yorkshire,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
+5af1bd98-14db-4fc4-a32f-ccc6cef1cf84,3b732b22-0d62-4427-a9cd-549d52002030,"#N/A",2020-12-11,"#N/A","#N/A",Pipeline,"#N/A",Yorkshire Updated,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
+cc2644d8-bb2d-42f8-9bb7-500ad5e5ecf3,e96c7dc3-ad40-40ff-8c07-c974503884cf,"#N/A",2020-12-11,"#N/A","#N/A",Pipeline,"#N/A",Barcilona,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,"#N/A"
