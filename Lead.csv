@@ -1,6 +1,6 @@
-"Guid","AnnualRevenue","City","Company","Country","Description","Email","EmailBouncedReason","FirstName","GeocodeAccuracy","Industry","IsConverted","IsUnreadByOwner","Jigsaw","LastName","Latitude","LeadSource","Longitude","NumberOfEmployees","Phone","PostalCode","Rating","Salutation","State","Status","Street","Test_Rich_Text_area__c","Title","Website"
-61401ec7-65fc-425e-ae1d-1aebcaebad90,"#N/A","#N/A",Test Pvt Ltd,"#N/A","#N/A","#N/A","#N/A",Hari,"#N/A","#N/A",false,true,"#N/A",Sharma,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mr.,"#N/A",New,"#N/A","#N/A","#N/A","#N/A"
-b9d4a5b5-62f3-4e25-8bbe-d747fca9690c,"#N/A","#N/A",Test Pvt Ltd,"#N/A","#N/A","#N/A","#N/A",Hari,"#N/A","#N/A",false,true,"#N/A",Kumar Sharma,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mr.,"#N/A",New,"#N/A","#N/A","#N/A","#N/A"
+"Guid","AnnualRevenue","City","Company","Country","Description","Email","EmailBouncedReason","FirstName","GeocodeAccuracy","Industry","IsConverted","IsUnreadByOwner","Jigsaw","LastName","Latitude","LeadSource","Longitude","NumberOfEmployees","Phone","PostalCode","Rating","Salutation","State","Status","Street","Title","Website"
+61401ec7-65fc-425e-ae1d-1aebcaebad90,"#N/A","#N/A",Test Pvt Ltd,"#N/A","#N/A","#N/A","#N/A",Hari,"#N/A","#N/A",false,false,"#N/A",Sharma,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mr.,"#N/A",New,"#N/A","#N/A","#N/A"
+b9d4a5b5-62f3-4e25-8bbe-d747fca9690c,"#N/A","#N/A",Test Pvt Ltd,"#N/A","#N/A","#N/A","#N/A",Hari,"#N/A","#N/A",false,false,"#N/A",Kumar Sharma,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Mr.,"#N/A",New,"#N/A","#N/A","#N/A"
 f1f07bcc-82e8-4a64-ae89-a9f01c0a98c7,44.0,Jaipur,Test Pvt Ltd,India,"jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
 jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,
 jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
@@ -8,4 +8,4 @@ jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
 jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
 jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn
 jsnfjsfnksdjfnkjsadfnjkdsfnkjnadsjkfnjkadsnfjkasdnfjknsdjkfnjksdnfjsfnjksdnfkjnsdk
-jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,",vish@gmai.com,"#N/A",Krishna,"#N/A",Healthcare,false,true,"#N/A",Sharma,"#N/A",Advertisement,"#N/A",545,5456466,302020,Warm,Mr.,rajasthan,New,Kalyan,"#N/A",Test,www.case.com
+jksdnjfknasdjkfnjkasdnfjksdnfjknsdfjknsdjkfn,",vish@gmai.com,"#N/A",Krishna,"#N/A",Healthcare,false,false,"#N/A",Sharma,"#N/A",Advertisement,"#N/A",545,5456466,302020,Warm,Mr.,rajasthan,New,Kalyan,Test,www.case.com
