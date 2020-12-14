@@ -1,4 +1,3 @@
 "Guid","AccountId","Comments","ContactId","Description","IsEscalated","Origin","ParentId","Priority","Reason","Status","Subject","SuppliedCompany","SuppliedEmail","SuppliedName","SuppliedPhone","Type"
 14c262b3-edcc-48ab-9a8a-76a4d1428d51,5f32a031-c6b7-45a7-97d7-148f8faf6ad6,"#N/A",00205f82-28f2-483c-ad73-e6fb9fe81c18,"#N/A",false,Phone,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
 1901c7e3-886a-4677-af41-b7a26d6a1937,0ec3cc6a-6330-4b6e-a4fd-34e114510543,"#N/A",ef7383de-c721-489f-aba8-23645017ee98,"#N/A",false,Email,"#N/A",Medium,User didn't attend training,New,Updated Test,"#N/A","#N/A","#N/A","#N/A",Problem
-78b7894b-d71f-4bfb-90d1-43493147aba8,0e154909-788a-4717-806b-d8f6494742a4,"#N/A",cfabe782-608b-42c5-b40b-d28beb44bc06,"#N/A",false,Email,"#N/A",Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
