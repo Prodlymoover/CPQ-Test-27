@@ -1,3 +1,2 @@
 "Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
-cb1040c5-cafa-4400-a760-bc1c853ff0d6,5f32a031-c6b7-45a7-97d7-148f8faf6ad6,"#N/A",2020-12-11,"#N/A","#N/A",Pipeline,"#N/A",Yorkshire Updated,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
-e1b00231-5120-47a4-a643-54ccac68aaa7,0ec3cc6a-6330-4b6e-a4fd-34e114510543,20000.0,2020-12-02,"#N/A","#N/A",Pipeline,Trade Show,Test opportunity,"#N/A",10.0,true,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
+54da632f-721b-495b-a6ab-ab8e7739eacc,a1e26d21-8537-4204-be02-a8d5a864072b,"#N/A",2020-12-14,"#N/A","#N/A",Pipeline,"#N/A",Test Opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,"#N/A"
